@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+html	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^html{$/;"	function	line:1
+body	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^body{$/;"	function	line:9
+.clock	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock{$/;"	function	line:16
+box-shadow: 0 0 0px 4px rgba(0,0,0,0.1)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^  box-shadow: 0 0 0px 4px rgba(0,0,0,0.1),$/;"	function	line:24
+inset 0 0 0 3px #EFEFEF	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^              inset 0 0 0 3px #EFEFEF,$/;"	function	line:25
+inset 0 0 10px black	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^              inset 0 0 10px black,$/;"	function	line:26
+.clock span	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span{$/;"	function	line:29
+.clock span:first-of-type	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:first-of-type{$/;"	function	line:32
+.clock span:nth-of-type(2)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(2){$/;"	function	line:36
+.clock span:nth-of-type(3)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(3){$/;"	function	line:40
+.clock span:nth-of-type(4)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(4){$/;"	function	line:44
+.clock span:nth-of-type(5)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(5){$/;"	function	line:48
+.clock span:nth-of-type(6)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(6){$/;"	function	line:52
+.clock span:nth-of-type(7)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(7){$/;"	function	line:56
+.clock span:nth-of-type(8)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(8){$/;"	function	line:60
+.clock span:nth-of-type(9)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(9){$/;"	function	line:64
+.clock span:nth-of-type(10)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(10){$/;"	function	line:68
+.clock span:nth-of-type(11)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(11){$/;"	function	line:72
+.clock span:nth-of-type(12)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(12){$/;"	function	line:76
+.clock-face	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock-face{$/;"	function	line:80
+.hand	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.hand{$/;"	function	line:86

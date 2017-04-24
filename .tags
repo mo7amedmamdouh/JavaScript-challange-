@@ -1,0 +1,47 @@
+html	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^<html>$/;"	function	line:2
+head	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^  <head>$/;"	function	line:3
+meta	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^    <title>Day2<\/title>$/;"	function	line:5
+link	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^    <link rel="stylesheet" href="css\/style.css">$/;"	function	line:6
+body	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^  <body>$/;"	function	line:8
+div	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^    <div class="clock">$/;"	function	line:10
+div	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <div class="clock-face">$/;"	function	line:11
+div	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^          <div class="hand hand-hour"><\/div>$/;"	function	line:12
+div	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^          <div class="hand hand-min"><\/div>$/;"	function	line:13
+div	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^          <div class="hand hand-second"><\/div>$/;"	function	line:14
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>12<\/span>$/;"	function	line:17
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>1<\/span>$/;"	function	line:18
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>2<\/span>$/;"	function	line:19
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>3<\/span>$/;"	function	line:20
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>4<\/span>$/;"	function	line:21
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>5<\/span>$/;"	function	line:22
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>6<\/span>$/;"	function	line:23
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>7<\/span>$/;"	function	line:24
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>8<\/span>$/;"	function	line:25
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>9<\/span>$/;"	function	line:26
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>10<\/span>$/;"	function	line:27
+span	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^      <span>11<\/span>$/;"	function	line:28
+script	/home/mohamed/Desktop/30DaysJs/day2/index.html	/^<script type="text\/javascript" src="js\/custom.js">$/;"	function	line:34
+setDate	/home/mohamed/Desktop/30DaysJs/day2/js/custom.js	/^function setDate(){$/;"	function	line:4
+setDate	/home/mohamed/Desktop/30DaysJs/day2/js/custom.js	/^function setDate(){$/;"	function	line:4
+html	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^html{$/;"	function	line:1
+body	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^body{$/;"	function	line:9
+.clock	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock{$/;"	function	line:16
+box-shadow: 0 0 0px 4px rgba(0,0,0,0.1)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^  box-shadow: 0 0 0px 4px rgba(0,0,0,0.1),$/;"	function	line:24
+inset 0 0 0 3px #EFEFEF	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^              inset 0 0 0 3px #EFEFEF,$/;"	function	line:25
+inset 0 0 10px black	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^              inset 0 0 10px black,$/;"	function	line:26
+.clock span	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span{$/;"	function	line:29
+.clock span:first-of-type	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:first-of-type{$/;"	function	line:32
+.clock span:nth-of-type(2)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(2){$/;"	function	line:36
+.clock span:nth-of-type(3)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(3){$/;"	function	line:40
+.clock span:nth-of-type(4)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(4){$/;"	function	line:44
+.clock span:nth-of-type(5)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(5){$/;"	function	line:48
+.clock span:nth-of-type(6)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(6){$/;"	function	line:52
+.clock span:nth-of-type(7)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(7){$/;"	function	line:56
+.clock span:nth-of-type(8)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(8){$/;"	function	line:60
+.clock span:nth-of-type(9)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(9){$/;"	function	line:64
+.clock span:nth-of-type(10)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(10){$/;"	function	line:68
+.clock span:nth-of-type(11)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(11){$/;"	function	line:72
+.clock span:nth-of-type(12)	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock span:nth-of-type(12){$/;"	function	line:76
+.clock-face	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.clock-face{$/;"	function	line:80
+.hand	/home/mohamed/Desktop/30DaysJs/day2/css/style.css	/^.hand{$/;"	function	line:86
